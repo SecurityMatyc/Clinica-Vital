@@ -79,12 +79,8 @@ WSGI_APPLICATION = 'clinica_vital.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'clinicavital',
-        'USER': 'matiasdb2',           
-        'PASSWORD': 'zpruh25281',       
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 

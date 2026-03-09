@@ -1,6 +1,6 @@
 # Clínica Vital Service 📚
 
-Proyecto académico desarrollado en 2026 para la **Evaluación 2 de Backend**.  
+Proyecto académico desarrollado en 2025 para la **Evaluación 2 de Backend**.  
 Este sistema representa una aplicación web de gestión clínica enfocada en el registro y administración de información médica básica.
 
 ## 👥 Autor
